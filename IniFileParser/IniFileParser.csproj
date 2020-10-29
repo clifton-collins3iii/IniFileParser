@@ -25,6 +25,7 @@ The SetSetting() method is overloaded to accept different value types. The GetSe
     <FileVersion>1.0.11.0</FileVersion>
     <PackageIcon>Logo_64x64.png</PackageIcon>
     <PackageIconUrl />
+    <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
   <ItemGroup>
